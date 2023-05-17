@@ -92,6 +92,3 @@ jobs:
         service: ${{ env.ECS_SERVICE }}
         cluster: ${{ env.ECS_CLUSTER }}
         wait-for-service-stability: true
-        
-AKIA5JDN33XL63LHDPWS
-VIKNFBCg2dLFNM+xTsF2bgt/J3E/RD+wxuQxVRen
